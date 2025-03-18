@@ -81,6 +81,7 @@ export default function Game() {
 
   return (
     <div>
+      <h2>Welcome to Tic Tac Toe</h2>
       <Board />
     </div>
   );
